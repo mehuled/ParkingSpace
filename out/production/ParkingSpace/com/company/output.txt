@@ -1,0 +1,14 @@
+Successfully created the Parking Slot with slots : 10
+Successfully parked the car at Slot ID : 1
+Successfully parked the car at Slot ID : 2
+SlotNo.	RegNo.	Color
+1	ABC-CDF	Green
+2	KKH-KHJ	Yellow
+
+Slot ID : 1 is free now.
+SlotNo.	RegNo.	Color
+2	KKH-KHJ	Yellow
+
+KKH-KHJ
+
+The slot number of car with registration number : KKH-KHJ is : 2

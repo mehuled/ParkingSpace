@@ -1,0 +1,10 @@
+createParkingLot 10
+park ABC-CDF Green
+park CKH-KHJ Yellow
+park BKH-KHJ Yellow
+park AKH-KHJ Yellow
+status
+leave 1
+status
+getRegNumberForCarsWithColor Yellow
+getSlotNumberOfCarWithRegNo AKH-KHJ
